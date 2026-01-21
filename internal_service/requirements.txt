@@ -1,0 +1,2 @@
+Django>=6.0.1
+confluent-kafka>=2.3.0
